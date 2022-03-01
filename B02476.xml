@@ -1,0 +1,678 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new book for children to learn in. With many wholesome meditations for them to consider. With directions for true spelling. And the ground of true reading and writing of true English. / by S.C.</title>
+            <author>Crisp, Stephen, 1628-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02476</idno>
+            <idno type="STC">Wing C6936C</idno>
+            <idno type="STC">ESTC R174306</idno>
+            <idno type="EEBO-CITATION">53299026</idno>
+            <idno type="OCLC">ocm 53299026</idno>
+            <idno type="VID">179800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179800)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2803:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new book for children to learn in. With many wholesome meditations for them to consider. With directions for true spelling. And the ground of true reading and writing of true English. / by S.C.</title>
+                  <author>Crisp, Stephen, 1628-1692.</author>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>104 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by A. Sowle ...,</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>From p. 2: Also a testimony concerning the Father, Son and Spirit ...the devil and his works ... By G. Fox the younger.</note>
+                  <note>Epistle signed S. C., p. 3. Attributed to Stephen Crisp by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Readers (Primary) --  England --  Early works to 1800.</term>
+               <term>Christian education of children --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179800:1" rendition="simple:additions"/>
+            <p>A New BOOK FOR CHILDERN To Learn in. With many wholſome Meditations for them to CONSIDER. With Directions for true SPELLING. And the Ground of true Read<g ref="char:EOLhyphen"/>ing and Writing of True ENGLISH. By S. C.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:179800:2"/>
+            <p>Alſo a Teſtimony concerning the Father, Son and Spirit, one true living and eternal God, who is Light; and concerning his work<g ref="char:EOLhyphen"/>ing; and how he and they may be known.</p>
+            <p>Alſo, the Devil and his Works ma<g ref="char:EOLhyphen"/>nifeſted, which are to be de<g ref="char:EOLhyphen"/>ſtroyed, and how; With ſeveral other things, very uſeful for <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> &amp; others to learn, that they may be turned unto the Light, which is the Gift of God.</p>
+            <p>By G. Fox the Younger.</p>
+            <q>
+               <hi>Train up a Child in the Way that it ſhould walk, and it will not for<g ref="char:EOLhyphen"/>get it when it is Old.</hi>
+            </q>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:179800:2"/>
+            <head>A ſhort Epiſtle.</head>
+            <p>ALL you Friends of the Truth, this is a Salutation unto you and to your Children, a fruit of the Plant of Righteouſneſs, which ye know, and can ſavour the Fruit thereof, &amp; is given forth from that Spirit in which we are one with you in the Service of Love and Truth, for the removing the uſe of ſuch Books and Catechiſms as are ſprung forth of the corrupt Tree, which now is to be burned, and its fruits reject<g ref="char:EOLhyphen"/>ed, and People are to uſe the leaves of the Tree that grows by the River of Water, that proceeds from the Throne and Preſence of God for healing. So all Friends be faithful, and walk in that which refreſhes the Plant, the Power of the Lord God.</p>
+            <closer>
+               <signed>S. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="alphabets">
+            <pb n="4" facs="tcp:179800:3"/>
+            <p>a b c d e f g h i k l m n o p q r ſ s t u v w x y z &amp;.</p>
+            <p>A B C D E F G H I K L M N O P Q R S T U V W X Y Z.</p>
+            <p>
+               <hi>a b c d e f g h i k l m n o p q r ſ s t u v w x y z &amp;.</hi>
+            </p>
+            <p>
+               <hi>A B C D E F G H I K L M N O P Q R S T <g ref="char:V">Ʋ</g> V W X Y Z.</hi>
+            </p>
+            <p>ft ct ſh fl a e i o u.</p>
+            <list>
+               <pb n="5" facs="tcp:179800:3"/>
+               <item>ab ad af ak am ap</item>
+               <item>eb ed ef ek em ep</item>
+               <item>ib id if ik im ip</item>
+               <item>ob od of ok om op</item>
+               <item>ub ud uf uk um up</item>
+               <item>ba da fa ca ma pa</item>
+               <item>be de fe ce me pe</item>
+               <item>bi di fi ci mi pi</item>
+               <item>bo do fo co mo po</item>
+               <item>bu du fu cu mu pu</item>
+            </list>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:179800:4"/>
+            <p>A Child may learn the fear of the Lord by ta-king heed unto the Light.</p>
+            <p>
+               <hi>Shall not the Plant that thou haſt ſet grow, and be great, and bring forth Fruit for men to eat?</hi>
+            </p>
+            <p>The Lord's Right Hand hath made the Earth, and all things elſe that is in it.</p>
+            <p>
+               <hi>Man is God's Work, made for his uſe, his Light is pla-ced to be mans Guide to keep all things from a-buſe.</hi>
+            </p>
+            <p>The Way to ob-tain a good Un-der-ſtand-ing is to be-gin in the Fear of the Lord; but
+<pb n="7" facs="tcp:179800:4"/> ſuch as re-ject the Coun-ſel of the Light, Dark-neſs and Er-ror is in all their Wayes.</p>
+            <p>A wiſe Child pre-ſer-veth him-ſelf from Cor-re-cti-on by O-be-di-ence; but a Fool-iſh Child pro-cu-reth Strips by his Re-bel-li-on.</p>
+            <p>A So-ber Child hath E-ſteem a mongſt the Wiſe, and a Youth that fear-eth the Lord ſhall be ac-count-ed a-mongſt the God-ly.</p>
+            <p>O-be-di-ence to Pa-rents is of good Re-port a-mong all men, there-fore the Child that li veth in Sub-je-cti-on ſhall be lo-ved a-bove o-thers.</p>
+            <p>And the bleſ-ſing of the Lord
+<pb n="8" facs="tcp:179800:5"/> ſhall be mul-ti-ply-ed up on ſuch; and his mer-ci-ful hand ſhall ac-com-pany them.</p>
+            <p>
+               <hi>The Coun-ſel of the Light is the way of Wiſ-dom, and ſuch as heark-en there-un-to, ob-tain the true know-ledge.</hi>
+            </p>
+            <p>That which re-pro-veth thee for E-vil is good, and bleſ-ſed are they that love it, and turn from their E-vil.</p>
+            <p>That which ma-ni-feſt-eth Sin, is con-tra-ry to Sin, and lead-eth in-to Righ teouſ-neſs, ſuch as fol-low it.</p>
+            <p>And that which makes ma-ni-feſt is the Light, which is con-tra-ry to all the works of Dark-neſs.</p>
+            <pb n="9" facs="tcp:179800:5"/>
+            <p>That which lead-eth in-to Sin is na-tu-ral, but that which leads out of ſin, and re-pro-veth it, is ſpi-ri-tu-al.</p>
+            <p>
+               <hi>The na-tu ral man can-not un-der-ſtand the things of God, be-cauſe they muſt be ſeen with that which is ſpi-ri-tu-al. The Light of the Bo-dy is the Eye, and that is ſpi-ri-tu-al.</hi>
+            </p>
+            <p>He that ta-keth heed un-to this Light, with it he ſhall ſee Temp-ta-ti-ons, and they that are wil-ling to o-bey it, ſhall re-ceive Pow-er, and be pre-ſer-ved.</p>
+            <p>Lit-tle Chil-dren, let your Ears be di-li-gent to hear the Voice of the Light, for that calls out of e-ve-ry E-vil Way.</p>
+            <pb n="10" facs="tcp:179800:6"/>
+            <p>That is the Light which tel-leth thee in ſe-cret thou ſhould-eſt not do E-vil, and that is pla-ced with-in thee, to be a Wit-neſs for God a-gainſt all E-vil.</p>
+            <p>He that doth E-vil ha-teth the Light; yet he can-not hide him-ſelf from the Judg-ment there-of.</p>
+            <p>There-fore ceaſe from that which is E-vil, and O-bey the Light with-in, and then ſhalt thou be de-li-ve-red from Con-dem-na-ti-on.</p>
+            <p>For the Way of the Lord is Peace to the Righ-te-ous; but he re-ward-eth the Wic-ked with Sor-row.</p>
+            <p>So, all Chil-dren and Peo-ple,
+<pb n="11" facs="tcp:179800:6"/> mind the Fear of the Lord God, that ſo ye may be pre-ſer-ved out of I-ni-qui-ty, and may come to un der-ſtand the things that be-long to your E-ver-laſt-ing Peace, in this the Day of your Vi-ſi-ta-ti-on (be-fore they be hid from your Eyes) Now whilſt the Light Re-pro-veth, the Lord cal-leth, and ſuch as turn at his Re-proof, and an<g ref="char:EOLhyphen"/>ſwer his Call ſhall find Mer-cy, but the Light ſhall be the Con dem-na-ti-on of the Re-bel-li-ous.</p>
+            <p>So all ye lit-tle Chil-dren, ex-er ciſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our ſelves in the Law of the Lord, which the Scrip-tures
+<pb n="12" facs="tcp:179800:7"/> of Truth ſaith is the <hi>Light;</hi> for if ye re-ject the <hi>Light,</hi> then ye re-ject the Law of God, and caſt it be-hind your backs, and with ſuch God is not well plea-ſed.</p>
+            <p>And hear-ken not to the de-cei-vers, who keep you from the <hi>Light</hi> of Chriſt Jeſus where-with he hath <hi>en-ligh ten-ed</hi> e-ve-ry one of you, and tell you it is na-tu-ral, where-as ye know Sin is na-tu-ral, and the <hi>Light</hi> in Your Con-ſci-en-ces is con-tra-ry to the Sin, and re-pro-veth you for ſin; there-fore be-lieve them not that turn you from the <hi>Light,</hi> for
+<pb n="13" facs="tcp:179800:7"/> they are not Mi-ni-ſters of Chriſt; his Mi-ni-ſters turn-ed Peo-ple to the Light, as you may read in the ſix and twen-ti-eth Chap-ter of the <hi>Acts;</hi> and the eigh-teenth verſe.</p>
+            <p>And ſuch are al-ſo De-cei-vers, who tell you the on-ly way to come to the Know-ledge of all Truth is by the Scrip<g ref="char:EOLhyphen"/>tures; for the know-ledge of Truth is by the Spirit of Truth, which is the <hi>Light</hi> that con-vin-ceth you firſt of un-truth, and then being o-bey-ed, doth bring to the know-ledge of Je-ſus Chriſt, who ſaid, <hi>I am the
+<pb n="14" facs="tcp:179800:8"/> Truth,</hi> and his Spi-rit lead-eth in-to all Truth.</p>
+            <p>And ſuch are De-cei-vers, who preach for mo-ney and for Tythes; ſuch can-not lead you out of Tranſ-greſ-ſi-on, for they are in Tranſ-greſ-ſi on them-ſelves; for Chriſt ſaid to his, <hi>free-ly you have re-cei-ved, free-ly give;</hi> and <hi>Paul</hi> made not the Goſ-pel charge-able; but theſe Prieſts, that preach for fil-thy Lu-cre, do de-ceive peo-ple, and keep them from be-lie-ving in the <hi>light,</hi> leſt by it they ſhould come no ſee their a-bo-mi-na-ti-ons and de-ceits.</p>
+            <p>And ſuch are no Mi ni-ſters
+<pb n="15" facs="tcp:179800:8"/> of God's Word, who tell you the Scrip-ture is the Word of God; for they ſpeak con-tra-ry to the Scrip-ture, which ſaith, <hi>Chriſt is the Word,</hi> and was in the Be-gin-ning, which the Scrip-ture was not; <hi>and did be-come Fleſh,</hi> which the Scrip-ture never did; <hi>and made the World,</hi> which the Scrip-tures could not do; and theſe are Mi-ni-ſters of the Let-ter, who are Mi-ni-ſters of the Scrip-ture, and not Mi-ni-ſters of Chriſt the Word, ſee-ing the Scrip-ture is nei-ther Chriſt, nor the Word; There-fore let e-ve-ry one, Old and Young, High and Low, mind
+<pb n="16" facs="tcp:179800:9"/> the <hi>Light of Jeſus Chriſt within,</hi> in the the Con-ſci-ence, and it. Tea-ching, that you may know the Path of Life, and the Way of Righ-te-ouſ-neſs, that ye may be ſa-ved from the Wrath that muſt come up-on them, who by con-ti-nu-ing in their e-vil <hi>deeds</hi> pro-voke the Lord to An-ger.</p>
+            <p>And may be made Par-ta-kers of the Mer-cy and Lo-ving-kind-neſs of God, which is laid up in Chriſt Je-ſus the Light, for them that fear him, and de-part from I-ni-qui-ty.</p>
+            <closer>
+               <signed>S. C.</signed>
+            </closer>
+         </div>
+         <div type="section">
+            <pb n="17" facs="tcp:179800:9"/>
+            <opener>
+               <salute>Little Children,</salute>
+            </opener>
+            <p>GOD that made the World, and created all Things that therein is, he is not a Man, ſitting as a Man above the Stars, in ſome one place, which place is called Heaven, as many of the World, and the Teachers there<g ref="char:EOLhyphen"/>of imagine.</p>
+            <p>
+               <hi>But the true God, who was Creator of all things, h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is an E<g ref="char:EOLhyphen"/>ternal Spirit, and he is the Life and Vertue, and Power that uphold<g ref="char:EOLhyphen"/>eth
+<pb n="18" facs="tcp:179800:10"/> all his Creatures, and by him all things conſiſt.</hi>
+            </p>
+            <p>For without him no Creature can have a being, for he giveth Life and Breath unto all that have it.</p>
+            <p>And this Eternal GOD no Mortal Man can approach un<g ref="char:EOLhyphen"/>to; for he only hath Im<g ref="char:EOLhyphen"/>mortallity, and dwelleth in the Light.</p>
+            <p>And this Immortal God, he cannot be kept in one place, for his preſence filleth Heaven and Earth, &amp; <hi>the Heaven of Heavens cannot contain him,</hi> as ſaith the Scripture.</p>
+            <p>
+               <hi>And this God, who is an Im<g ref="char:EOLhyphen"/>mortal
+<pb n="19" facs="tcp:179800:10"/> Spirit, he was your Crea<g ref="char:EOLhyphen"/>tor, and this is he whom you are to remember in the dayes of your Youth.</hi>
+            </p>
+            <p>And to know this true and living God, and Jeſus Chriſt whom he hath ſent (and freely gi<g ref="char:EOLhyphen"/>ven to be the Light of the World, that all through the Light might believe) it is Life Eternal.</p>
+            <p>Now God the higher Power, he is called the Father, and Chriſt, the Light, is called the Son; and Chriſt was glorified with the Father before the World began.</p>
+            <p>And Chriſt the light was (and is) called the Word, which
+<pb n="20" facs="tcp:179800:11"/> was with God in the beginning, and was (and is) God; and God the higher Power, and Chriſt the Word are One, by whom the World was made.</p>
+            <p>
+               <hi>And the Spirit of Truth that is Life, which proceeds from the Fa<g ref="char:EOLhyphen"/>ther and the Son,</hi> as ſay the Scrip<g ref="char:EOLhyphen"/>tures of Truth.</p>
+            <p>And theſe, the Father, Son and Spirit, the world and their Teach<g ref="char:EOLhyphen"/>ers call <hi>Three Perſons;</hi> but they ſpeak they know not what, even as they have imagined, contrary to the Scriptures. Therefore Children, believe them not.</p>
+            <p>For the Father, which is called the Higher Power, and the Son,
+<pb n="21" facs="tcp:179800:11"/> which is called the Word, and the Spirit, which is called Life, which proceeds from the Father and Son; theſe are one, and are not ſeparated.</p>
+            <p>For he that hath ſeen the Son, hath ſeen the Father alſo; for the Father is in the Son, and the Son is in the Father, and the Spirit proceedeth from the Fa<g ref="char:EOLhyphen"/>ther and the Son, as ſaith the Scripture, and theſe are one Be<g ref="char:EOLhyphen"/>ing and Subſiſtence.</p>
+            <p>Now that Word which was in the Beginiing with God, and was (and is) God, by whom all things were made, that were made <hi>[Mark]</hi> in that Word was
+<pb n="22" facs="tcp:179800:12"/> Life, and that Life was (and is) the Light of men.</p>
+            <p>
+               <hi>And this is the true light, which lighteth every one that cometh into the World, that all through that Light might believe,</hi> as ſaith the Scriptures of Truth.</p>
+            <p>This Light which every one is enlightned withal, the Prieſts of the World call it a natural light; but Children, believe them not, for they ſpeak contrary to the Scripture.</p>
+            <p>For the Scriptures of Truth ſay, <hi>That in the Word</hi> (which was God) <hi>by whom all Things were made, was Life, and the Life was the Light, of Men</hi>
+               <pb n="23" facs="tcp:179800:12"/> So Children, take notice, that the Light of Men is the Life of the Word, which is God: And this Word is Eternal and Spiri<g ref="char:EOLhyphen"/>tual; and this Word made all the natural lights, and this Word alſo is called, <hi>Chriſt the Son of God, whoſe Life is the Light of Men.</hi>
+            </p>
+            <p>And this Word became Fleſh, and in due time he was made Manifeſt in the Likeneſs of Sinful Fleſh, in that Body which was ſuppoſed to be <hi>Joſeph</hi> the Car<g ref="char:EOLhyphen"/>penter's Son, and he was called <hi>Jeſus.</hi>
+            </p>
+            <p>And in him dwelt the Fulneſs of the Godhead bodily; and this
+<pb n="24" facs="tcp:179800:13"/> Jeſus fulfilled the Will of him that ſent him, and <hi>he freely gave his Life a Ranſome for many,</hi> as ſaith the Scripture.</p>
+            <p>And as concerning the fleſh, he was crucified without the Gates of <hi>Jeruſalem,</hi> and he was buried, and he is riſen again, according to the Scriptures, and he wrought Eternal Salvation for all them that obey him.</p>
+            <p>And ſo, the ſame that deſcend<g ref="char:EOLhyphen"/>ed, the ſame alſo aſcended (as ſaith the Scriptures) he that came from the Father, the ſame is gone to the Father again.</p>
+            <p>And he is glorified with the Father, with the ſame Glory
+<pb n="25" facs="tcp:179800:13"/> that he had with the Father be<g ref="char:EOLhyphen"/>fore the World began.</p>
+            <p>And though ſome have <hi>known him after the fleſh, yet henceforth know they him ſo no more</hi> (as ſay the Scriptures of Truth.)</p>
+            <p>Now Children, the Scriptures of Truth do declare of God and Chriſt, and the Spirit of Truth, which are one; but the Scrip<g ref="char:EOLhyphen"/>tures cannot bring you to know God and Chriſt, and the Spirit of Truth.</p>
+            <p>
+               <hi>For no man knoweth the Father, who is a Spirit, but the Son, and he to whom the Son will reveal him,</hi> as ſay the Scriptures.</p>
+            <p>And they that come to ſee
+<pb n="26" facs="tcp:179800:14"/> and know the Son, they come to ſee and know the Father alſo; for the Father is in the Son, and the Son is in the Father, as ſaith the Scriptures.</p>
+            <p>And they are call'd by <hi>one name</hi> which is the Word or the Light; for the Word is God, and Chriſt is the Word, and God is Light, and Chriſt is the Light of the World, and the ſpirit of Life pro<g ref="char:EOLhyphen"/>ceeds from God and Chriſt, who are Light.</p>
+            <p>And whatſoever the Son ſeeth the Father do, that doth he alſo, and the ſpirit of Life is not ſepa<g ref="char:EOLhyphen"/>rate from the Father and the Son in the Work.</p>
+            <pb n="27" facs="tcp:179800:14"/>
+            <p>Now Children, the Father, Son and Spirit, which are one Being, is the true one only God, which you are to know, believe in, and Worſhip, which God is a Spirit of Truth, <hi>and they that Worſhip him, muſt Worſhip him in the Spirit, and in the Truth;</hi> and before you can Worſhip him a<g ref="char:EOLhyphen"/>right, you muſt know him, and believe in him.</p>
+            <p>And the Knowledge of God, and the Faith in him, man loſt through diſobeying the higher Power; and ſo fell from God in the Tranſgreſſion, into darkneſs and death.</p>
+            <p>And all Children (and Peo<g ref="char:EOLhyphen"/>ple)
+<pb n="28" facs="tcp:179800:15"/> that be in Tranſgreſſion, in their Natural eſtate in the Fall, they are out of the Knowledge of God, and out of the true Faith, and out of the Spirit of Truth, and ſo out of the Worſhip of God.</p>
+            <p>And in this Eſtate they are alienated from the Life of God, and Strangers to the Covenant of Promiſe, even Strangers un<g ref="char:EOLhyphen"/>to the Law of God (which is Light) written in the Heart; and ſo in this eſtate they are Darkneſs.</p>
+            <p>Now Children, although you be darkneſs, yet the Light ſhines in the Darkneſs (as ſaith the
+<pb n="29" facs="tcp:179800:15"/> Scripture) and the Darkneſs cannot Comprehend it; the Darkneſs cannot ſhut up the Light, that is plain to your Un<g ref="char:EOLhyphen"/>derſtandings.</p>
+            <p>For the Light breaks through the Darkneſs, and ſheweth unto you your <hi>darkneſs; and ſhines in<g ref="char:EOLhyphen"/>to your hearts, to give you the kn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<g ref="char:EOLhyphen"/>ledge of the Glory of God in the face of Jeſus Chriſt.</hi>
+            </p>
+            <p>So, that which may be known of God is manifeſted in you, for God hath ſhewed it unto you: Therefore Children, ye ſhould not ſeek nor look out, nor ſearch in your own Thoughts to find out the Knowledge of God; for
+<pb n="30" facs="tcp:179800:16"/> the World by their Thoughts and Wiſdom know not God.</p>
+            <p>But the Lord God is nigh unto every one of you, for to ſhew unto you your Thoughts, for he knoweth your Thoughts, and none of them can be with<g ref="char:EOLhyphen"/>held from him; and he that declareth unto man what his Thoughts are, <hi>the Lord of Hoſts is his Name;</hi> ſo Children, take notice of that which ſheweth you your Thoughts, for that is the Lord.</p>
+            <p>And it was propheſied con<g ref="char:EOLhyphen"/>cerning Chriſt, <hi>That he ſhould be a Light to lighten the Gentiles, that the Thoughts of many Hearts
+<pb n="31" facs="tcp:179800:16"/> may be revealed;</hi> and again, <hi>The Word diſcerneth the Thoughts and the Intents of the Heart.</hi>
+            </p>
+            <p>So Children, there is ſome<g ref="char:EOLhyphen"/>thing in you, that makes manifeſt your bad Words, and your bad Deeds, and your bad Thoughts unto you, and reproveth you for them. Now <hi>all things that are reproved, they are made ma<g ref="char:EOLhyphen"/>nifeſt with the Light</hi> (as ſaith the Scriptures) <hi>For whatſoever doth make Manifeſt, the ſame is Light.</hi>
+            </p>
+            <p>And God is Light, who ſaid, to him that thought God to be ſuch a one as himſelf, <hi>I will re<g ref="char:EOLhyphen"/>prove thee, and ſet thy ſins in order
+<pb n="32" facs="tcp:179800:17"/> before thy eyes;</hi> and they that would have none of Gods <hi>reproof,</hi> they were the ſtubborn children, whom God, the Light, brought his Judgments upon; therefore take heed of rejecting that which doth reprove you for ſin.</p>
+            <p>And again, the Scripture ſaith, of the Spirit of Truth, <hi>That he ſhall reprove the World of Sin, of Righteouſneſs, &amp; of Judgment;</hi> &amp; Chriſt the Word, <hi>he for Sin con<g ref="char:EOLhyphen"/>demned Sin in the fleſh:</hi> So take notice of that which makes ma<g ref="char:EOLhyphen"/>nifeſt, reproves and condemns you for Sin; for that i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, or Chriſt, or the Spirit, which are but One.</p>
+            <pb n="33" facs="tcp:179800:17"/>
+            <p>Now Children, there are but two Grounds or Powers from whence all Peoples Deeds ariſe, and by which all People are acted or led, that is to ſay, the Ground of Truth, and the Ground of Unrighteouſneſs, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Power of God, and the Power of Satan, which is the Devil, who abode not in the Truth: And there is the Spirit of God, and the Spirit of Error.</p>
+            <p>Now, the Ground, and Power and Spirit of Truth, are of one Nature, which is the DIVINE NATURE; and the Ground and Power, and the Spirit of Error, they
+<pb n="34" facs="tcp:179800:18"/> are alſo one in their Natures, which is the Curſed Nature, and theſe Natures are contrary one to the other.</p>
+            <p>Now, they that Act any manner of Unrighteouſneſs, it ariſeth from the Unrighteous Ground; and they are moved, acted and led in all Unrighteous Actions, that they Act by the Power of Satan, the Spirit of Error.</p>
+            <p>And they that act any thing that is Juſt and Right in the ſight of God, it ariſeth from the Ground of Truth, and they are moved, acted and led in all ſuch Actions by the Power and Spirit of God.</p>
+            <pb n="35" facs="tcp:179800:18"/>
+            <p>Now theſe Powers, or Natures, or Spirits being contrary one to another, oppoſe one another; and thus Children ye may come to know that it is ſo, and diſcern it by the Light, which makes ma<g ref="char:EOLhyphen"/>nifeſt all Words, Actions and Motions.</p>
+            <p>For when ye have diſobey<g ref="char:EOLhyphen"/>ed your Parents, or them that have the Rule over you, in any thing that ye ought not, or when ye have done any Evil, then ye have been acted by Satan his Power; and then the Power of God hath moved in you againſt the Evil that you have commit<g ref="char:EOLhyphen"/>ted, and then (many times)
+<pb n="36" facs="tcp:179800:19"/> with the Spirit of Truth you have ſeen that you have done amiſs, and have been troubled for it.</p>
+            <p>And when you have told a Lye, the Devil hath begotten that in you, for he is the Father of all Lyes; and then the Light of God's Spirit hath often times ſhewed unto you your Lye, and hath condemned you for it.</p>
+            <p>And thus the Spirit and Power of God Oppoſeth the Power and Spirit of Satan in all things that Satan begets in you, and moveth and leadeth you to do; for the Spirit and Power of God
+<pb n="37" facs="tcp:179800:19"/> moves and ſtirs againſt every moving and ſtirring of the Pow<g ref="char:EOLhyphen"/>er and Spirit of Satan, and calls you from the evil to refrain, and not to joyn to the Evil Motions, but to the good.</p>
+            <p>And likewiſe, where the Spi<g ref="char:EOLhyphen"/>rit and Power of Satan is not yet limited or deſtroy'd <hi>[Mark]</hi> when the Power and Spirit of God begets any tender Deſires, or ſtirrings, or movings in you after Truth and Righteouſneſs, then the Power and Spirit of Satan moves and ſtirs in you a<g ref="char:EOLhyphen"/>gainſt them, and ſeeks to draw your Minds from that which is good, into that which is evil.</p>
+            <pb n="38" facs="tcp:179800:20"/>
+            <p>And thus you may plainly ſee that the light hath no fellowſhip with the darkneſs, nor the dark<g ref="char:EOLhyphen"/>neſs with the light; for the Spi<g ref="char:EOLhyphen"/>rit and Power of God is Light, and the Spirit and Power of Satan is Darkneſs, and theſe are contrary one to each other in all things.</p>
+            <p>And they that joyn to to the Darkneſs, and believe in it, they by it continue, or are made Chil<g ref="char:EOLhyphen"/>dren of Darkneſs, and ſo of the Devil.</p>
+            <p>And they that joyn to the Light, and believe in it, they by it are made, or continue Children of the Light, and ſo of God.</p>
+            <pb n="39" facs="tcp:179800:20"/>
+            <p>Now Children, there is a day of Viſitation, if ye ſlight it not, which the Lord God giveth you, wherein you may come to witneſs this Word of God, in making you his children through his Workings and Operations of his Eternal Spirit.</p>
+            <p>But if ye let ſlip the Day of your Viſitation, and continue reſiſting the Workings of the Spirit, and harden your ſelves againſt the Reproof of the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, then the Spirit of the Lord will ceaſe ſtriving with you, and ye will be ſhut up in Darkneſs.</p>
+            <p>Therefore, whilſt ye feel ſome<g ref="char:EOLhyphen"/>thing which convinceth you
+<pb n="40" facs="tcp:179800:21"/> of Sin and Evil, take heed unto that; for that which lets you ſee that ye ſhould not lye, nor ſwear, nor be proud, nor wild, nor diſo<g ref="char:EOLhyphen"/>bedient to your Parents in any lawful thing that they command you, nor act any manner of Un<g ref="char:EOLhyphen"/>righteouſneſs whatſoever; <hi>This is the Manifeſtation of the Spirit, which is given you to profit withal,</hi> or the true <hi>Light of God or Chriſt,</hi> who are one.</p>
+            <p>And this ye ſhould mind r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>joyn unto (when it convinceth you) and to abide in it, and then ye would come to feel the Mighty Power of God, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Chriſt manifeſted in you, who
+<pb n="41" facs="tcp:179800:21"/> was (and is) made manifeſt for this very end, that he might (and may) <hi>deſtroy the Works of the Devil.</hi>
+            </p>
+            <p>And they that commit Sin, are of the Devil, and in the Devil's Work; for that is the Devil which begetteth Sin, and works it in the Members; and they that joyn to that which moveth to Sin, they become one with the Devil, the Author of Sin; and ſo joyn with him in his Work, and he becomes their Maſter.</p>
+            <p>Now Children, Chriſt that <hi>Power of God,</hi> he appears againſt Sin in the Members, therefore
+<pb n="42" facs="tcp:179800:22"/> mind the ſtirrings, and movings and ariſings of Chriſt, the Power of God (in you) againſt Sin, and believe and wait in it, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ye will come to feel Sin, and the Devil, who is the Author of it, conſuming even by the bright<g ref="char:EOLhyphen"/>neſs of the coming, or appearing, or Revelation of Jeſus Chriſt, the Power of God (in you.)</p>
+            <p>And then you will grow in<g ref="char:EOLhyphen"/>to Soberneſs, and Stilneſs, and Quietneſs, and Innocency, and true Tenderneſs and Obedience both unto God and your Pa<g ref="char:EOLhyphen"/>rents, and them that have Rule over you; and then the Bleſ<g ref="char:EOLhyphen"/>ſing of the Lord will come upon you.</p>
+            <pb n="43" facs="tcp:179800:22"/>
+            <p>So Children, ye being turned unto the true Light that ſhews you Sin and Evil, with that, as ye mind to abide in it, ye will come to ſee and know, that the true God, the true Chriſt, and the true Spirit is but one Being and Subſtance, and as ye wait in the Light, with it ye will come to ſee the Works and Workings of the one true and living God; and ſo ye will grow into a good Underſtanding, as ye believe and wait in that Light of God mani<g ref="char:EOLhyphen"/>feſted in you.</p>
+            <p>And then ye will come to ſee and know the Devil alſo, (who abode not in the Truth)
+<pb n="44" facs="tcp:179800:23"/> and his Works and Workings, and as ye abide in the Truth, (which the Devil is out of) ye will come to feel the Devil and his Works and workings deſtroy<g ref="char:EOLhyphen"/>ed and conſumed by the Bright<g ref="char:EOLhyphen"/>neſs of the appearing of the one God of Light, who is a conſu<g ref="char:EOLhyphen"/>ming Fire.</p>
+            <p>So Children, ye need not look out, nor ſtrive in your own Thoughts for the Knowledge of things; but keep your Minds within, in that which calls for Soberneſs and Stilneſs, and Qui<g ref="char:EOLhyphen"/>etneſs and Harmeleſneſs of Spi<g ref="char:EOLhyphen"/>rit; and as ye wait in that, ye will be kept in God's fear, then
+<pb n="45" facs="tcp:179800:23"/> whatſoever is needful for you to know, the Lord will reveal it un<g ref="char:EOLhyphen"/>to you by his Spirit.</p>
+            <p>
+               <hi>For the ſecrets of the Lord are with them that fear him,</hi> as ſay the Scriptures; <hi>and they that fear the Lord ſhall not lack any thing that they have need of;</hi> for they that ſtand in awe of God, the light, they ſhall be kept out of Sin, and they ſhall grow into the pure Knowledge and Wiſdom of God and therein be preſerved; for the Wiſdom of God preſerves all things that are preſerved.</p>
+            <p>And Children, with the Wiſ<g ref="char:EOLhyphen"/>dom of God all God's Creatures
+<pb n="46" facs="tcp:179800:24"/> muſt be ordered, and they that come into the Wiſdom of God <hi>[Mark]</hi> they muſt firſt come in<g ref="char:EOLhyphen"/>to the fear of God; <hi>for the fear of the Lord is the beginning of Wiſdom;</hi> and the fear of God is to depart from Iniquity, even from every Evil Way.</p>
+            <p>And before any can depart from their Iniquity, they muſt firſt ſee their Iniquities; &amp; before they can ſee their Iniquities, their Sins and Evil Deeds, they muſt firſt hear the Light which they are enlightned withal, which will tell them that they are in Iniquity, and alſo ſhew them their Sins and Evil Deeds.</p>
+            <pb n="47" facs="tcp:179800:24"/>
+            <p>And Children, they that hear the Light, they hear God, for God is Light; and they that hear God, they hear Chriſt alſo; for God and Chriſt are One (as ſaith the Scripture) and they that hear Chriſt, hear the Author of the True Faith, and ſo hear the Saviour of their Souls; and the Light is that Prophet, which all that hear not him are to be cut off.</p>
+            <p>Now Children, that which moves, or leads, or draws to Ly<g ref="char:EOLhyphen"/>ing, to Swearing, to Diſſimula<g ref="char:EOLhyphen"/>tion, to Pride, to Covetouſneſs, to Wilfulneſs, to Stubbornneſs to Envy, to Raſhneſs, to Wild<g ref="char:EOLhyphen"/>neſs,
+<pb n="48" facs="tcp:179800:25"/> to Diſobedience to Parents, or Maſters, or Dames, (when they command that to be done by you, which you ought to do) or that which moves, draws or leads you into Gaming, or into any manner of Evil whatſo<g ref="char:EOLhyphen"/>ever, the ſame moves, and draws, and leads you from hearing the Voice of God.</p>
+            <p>And that which moves, draw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and leads into any Evil, that i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Devil; and going into the Evil, which the Devil tempts to, that hardneth the Heart, and the Heart being hardned, that ſtop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Ear that ſhould hear Gods Voice.</p>
+            <pb n="49" facs="tcp:179800:25"/>
+            <p>Therefore Children, mind that which will ſhew you all the Mo<g ref="char:EOLhyphen"/>tions and Temptations of the De<g ref="char:EOLhyphen"/>vil, and hear that which will tell you your Thoughts, for that is God, the Light, who is the Word, and the Word is as a Hammer, to break the hard Heart; and the Heart being broken into Tender<g ref="char:EOLhyphen"/>neſs, then the Mercy and Virtue of God will be felt to heal again.</p>
+            <p>And then the preſence of God will be witneſſed; <hi>for the Lord dwells with thoſe that are of a bro<g ref="char:EOLhyphen"/>ken and contrite Spirit, and tremble at his Word; and in his preſence is fulneſs of Joy,</hi> as ſay the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <pb n="50" facs="tcp:179800:26"/>
+            <p>So little Children, <hi>Learn</hi> of <hi>the Light,</hi> which is Chriſt, who <hi>is meek and Lowly</hi> in the Heart, and he will teach you to be <hi>meek</hi> and lowly, and patient, and in<g ref="char:EOLhyphen"/>nocent, and harmleſs, and to live in true Love and Tender<g ref="char:EOLhyphen"/>neſs, and Obedience, and Ho<g ref="char:EOLhyphen"/>neſty, and Uprightneſs toward God and toward Men; and then ye will find Reſt and Peace for your Souls.</p>
+            <p>Now Children, the wiſdom of the Lord God is more precious then all the <hi>riches</hi> of the world.</p>
+            <p>They that are of a froward, ſtubborn, crooked, envious, raſh, fretting Nature, they ſhall not
+<pb n="51" facs="tcp:179800:26"/> be acquainted with the Wiſdom of God.</p>
+            <p>But they that fear the Lord, and are of a tender, humble, meek, patient lowly Spirit, they ſhall be filled with true Wiſdom and Underſtanding.</p>
+            <p>They that are wild and ſtud<g ref="char:EOLhyphen"/>born, and run into wicked and prophane Language, and Sport themſelves in Vanity, and live in diſobedience, the Lord God will overtake them, with his Judg<g ref="char:EOLhyphen"/>ments, before they are aware of them.</p>
+            <p>The End of a diſobedient, ſtubborn, wicked Man, who will not depart from his wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>neſs
+<pb n="52" facs="tcp:179800:27"/> ſhall be full of Torment, Sor<g ref="char:EOLhyphen"/>row and Miſery.</p>
+            <p>But the End of an Upright and Perfect man, who delight<g ref="char:EOLhyphen"/>eth himſelf in the Way of the Lord, ſhall be full of Joy, and Comfort &amp; Peace in the Lord.</p>
+            <p>
+               <hi>The Way of the Lord, which is the way of Holineſs, and the Path of the Juſt is the bright ſhining Light, which ſhi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore and more until the perfect Day.</hi>
+            </p>
+            <p>And the bright ſhining Light is that which will ſhew you your evil Words, and your evil Deeds, and your evil Thoughts, and will chek and reprove you for them; and this is the way where<g ref="char:EOLhyphen"/>in ye ſhould walk.</p>
+            <pb n="53" facs="tcp:179800:27"/>
+            <p>Every good and perfect Gift comes from God, and the Gift of God is perfect; and God gives Gifts even to the Rebellious; and the Gift of God to the Rebelli<g ref="char:EOLhyphen"/>ous is the Light, which ſheweth him his Rebellion, and for this Cauſe it is given him, that he might return from his Rebellion unto God, the Giver.</p>
+            <p>Now Chriſt is the Light, the Way, the Truth and the Life and this is the Gift of God, and they that receive, love, believe and follow the Light, which ſhoweth unto them their Sins, they ſhall receive Power to come out of their Sins, and to
+<pb n="54" facs="tcp:179800:28"/> become Children of God, and that Light, which is the Gift of God, that ſhall juſtifie and comfort them.</p>
+            <p>But they that diſobey, reject, deſpiſe and hate the Light which ſheweth unto them their Sins, they ſhall abide in Darkneſs; and if they Repent not, they ſhall dye in their Sins; and the Light, which was God's Gift to them, which ſhewed unto them their Sins, and call'd unto them to forſake their Sins, ſhall remain their Condemnation.</p>
+            <p>Bleſſed are they that love and obey the Light, and believe in it; for they ſhall be kept
+<pb n="55" facs="tcp:179800:28"/> by it through Faith, out of con<g ref="char:EOLhyphen"/>demnation, and they ſhall feel and know the <hi>Light</hi> to be their continual Teacher, to <hi>teach</hi> them that which God requireth them to do, and it will give them Power to do it alſo.</p>
+            <p>Little <hi>Children,</hi> joyn not your ſelves to the Wicked, (Mark) neither keep Company with them that walk in Unrighte<g ref="char:EOLhyphen"/>ous Wayes, leſt they tempt you to run into Wickedneſs alſo; and ſo ye come thereby to re<g ref="char:EOLhyphen"/>ceive the Wages that Sinners muſt receive; <hi>and the Wages of Sin,</hi> and of ſuch as live in S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, <hi>is Death.</hi>
+            </p>
+            <pb n="56" facs="tcp:179800:29"/>
+            <p>And they that partake with the Wicked in their Wicked<g ref="char:EOLhyphen"/>neſs, they alſo muſt partake with them in the Judgment; therefore refrain from the Com<g ref="char:EOLhyphen"/>pany of the Wicked, and de<g ref="char:EOLhyphen"/>light your ſelves in the Fear of the Lord.</p>
+            <p>They that ſeek to the Wicked for Counſel, they go to a cor<g ref="char:EOLhyphen"/>rupt Fountain; but they that ſeek to the Lord for Counſel, and live in his Fear, they ſhall find the Treaſures of Wiſdom, and the Fountain of Life.</p>
+            <p>Children, delight not your ſelves in earthly Riches, nor in the Honour of the World, nor
+<pb n="57" facs="tcp:179800:29"/> in the Pleaſures of the Fleſh, nor in gay Apparel, nor in vain Mirth, in Muſick, nor in any Evil whatſoever; but let this be your Delight to learn to know the Lord, and to be obedient unto him.</p>
+            <p>Now Children, the Light, if ye wait in it, that will learn you the fear of the Lord, and it will ſhew unto you what the Lord commandeth you to do, and it will lead you in Obedience unto God and his Commandments, and ſo ye will be brought unto the End of the Matters, and to the whole Duty of man, which is
+<pb n="58" facs="tcp:179800:30"/> to <hi>fear God, and keep his Com<g ref="char:EOLhyphen"/>mandments;</hi> and in the Light his Commandments are ſeen, and they that receive the Light, re<g ref="char:EOLhyphen"/>ceive Power to keep them, and to ſuch they are not grievous, but joyous.</p>
+            <p>
+               <hi>Little Children, wait in the Light</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="section">
+            <head>Something concerning Original SIN.</head>
+            <p>THE Original of all Sin is out of the Truth, and out of the Light, and its conception is not in that Power by which
+<pb n="59" facs="tcp:179800:30"/> all Creatures were made, nei<g ref="char:EOLhyphen"/>ther is its Original in that in which the Original of all Crea<g ref="char:EOLhyphen"/>tures is and doth ſtand.</p>
+            <p>And although Sin may be in a Creature, it is not by Crea<g ref="char:EOLhyphen"/>tion, but by Degeneration; not by the Power that made Man, but by the Power that captivateth Man in his Senſes, and leadeth him from the Power that made him, which he ſhould be Subject and O<g ref="char:EOLhyphen"/>bedient unto; which Power placeth a Law in the Creature, which it maketh and formeth; and ſo, as this was (or is) kept, ſo long doth not Sin
+<pb n="60" facs="tcp:179800:31"/> enter, but when the other Pow<g ref="char:EOLhyphen"/>er, namely, the Power of the Luſt, or <hi>earthly</hi> deſire after ſome<g ref="char:EOLhyphen"/>thing beſides the pure Power, and the Law of it takes the Crea<g ref="char:EOLhyphen"/>tures Senſes into the Appre<g ref="char:EOLhyphen"/>henſion of ſomething to be good beſide the <hi>Law,</hi> and the pure O<g ref="char:EOLhyphen"/>bedience thereof; here is Sins Original and Conception, and ſo then the Knowledge of a Plea<g ref="char:EOLhyphen"/>ſure in Sin that enters into the Heart, which is darkened with Love and Deſire of that which is earthly, and the Love which was to the Law, which is the <hi>Light,</hi> that grows cold, and the Affections become deceived
+<pb n="61" facs="tcp:179800:31"/> by the Subtilty of the Author <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Tranſgreſſion, who is the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egetter of the Evil Deſires, which is Sin in it ſelf, before <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t be brought forth to Action, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd is of that Seed that is ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in the Womb, and then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Power not being loved, which worketh to ſave out of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Sin, at length the Feeling of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is loſt, and God, the Power, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orgotten, and the Creature led <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto Captivity, and the Power <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f death and Darkneſs comes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p from the Pit of Darkneſs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver the Soul, which bore the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mage of him that created it, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o then the the Begetting of the
+<pb n="62" facs="tcp:179800:32"/> Power of Darkneſs, the Prince of Iniquity, the Father of Abo<g ref="char:EOLhyphen"/>minations and Defilements, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> begetting, gets a Birth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Form of him that begot it<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this takes the Dominion ove<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Creature, and ſubjects i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto Vanity, not willingly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but by force, commanding i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Members, and making the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be Servants to Unrighteou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſs, bringeth forth continu<g ref="char:EOLunhyphen"/>ally through the Members that by Authority and Power which at the firſt was but pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſwaded and enticed unto, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo the Continuation of Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the Cuſtom of ſinning ta<g ref="char:EOLunhyphen"/>keth
+<pb n="63" facs="tcp:179800:32"/> away the Sence, ſo that it becomes Natural to conceive Evil, and to bring forth Miſ<g ref="char:EOLhyphen"/>chief, and to act Iniquity; and this is the Nature in which all men are Children of Wrath, one as well as another, that are in it, without reſpect to Perſons, Names, Countries, or any other thing whatſoe<g ref="char:EOLhyphen"/>ver; for Sin is the Tranſgreſſi<g ref="char:EOLhyphen"/>on of the Law; and where there is no Law, there is no Tranſ<g ref="char:EOLhyphen"/>greſſion; and where there is a Law, there is Obedience required, which not being yielded, the Law is broken, and Tranſgreſſion commit<g ref="char:EOLhyphen"/>ted;
+<pb n="64" facs="tcp:179800:33"/> ſo that of Neceſſity the O<g ref="char:EOLhyphen"/>riginal of the pure, righteous, holy Law of God is firſt, before the Original of Sin, which is the Tranſgreſſion of it; and this is that which is near to e<g ref="char:EOLhyphen"/>very one, even the Law which they ſhould obſerve and keep, and fulfill the requirings of it, and not tranſgreſs: and who take heed unto this, do well, and thoſe that tranſgrſes this, do Evil, as did <hi>Cain,</hi> and then <hi>Sin lies at the Door, which being finiſhed brings forth Death;</hi> and ſo, as many as have ſinned ſince the Foundation of the World, it hath been by their departing
+<pb n="65" facs="tcp:179800:33"/> aſide from the pure Law of the Power that made them, in their own Particulars, unto that which their own Hearts l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſted after, and ſo that having con<g ref="char:EOLhyphen"/>ceived in the Womb of Dark<g ref="char:EOLhyphen"/>neſs, in the blinded and decei<g ref="char:EOLhyphen"/>ved Affection, brought forth the Sin, which being finiſhed in them, and through them brought forth Death in their own parti<g ref="char:EOLhyphen"/>culars, by what is done in thine own ſelf, and not by that which was done in another long ago.</p>
+            <p>So let none be deceived, but all, both Old and Young, High and Low, Rich and Poor,
+<pb n="66" facs="tcp:179800:34"/> mind the pure Law of God in your own Particulars, which by Tranſgreſſing and Diſobey<g ref="char:EOLhyphen"/>ing, Sin has gotten Head in you, and ſo the Reign and Dominion of Death is come over you, and the Powers of Darkneſs have prevailed in your Hearts, and then in the Dark Imaginations of your own Hearts ye have gone to imagine about Original Sin being in <hi>Adam,</hi> and ſo Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto Condemnation and Wrath to come upon you all; But verily, I ſay unto you, The Original of Sin, and the Law, and their Tranſgreſſion there of, is nearer unto you tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="67" facs="tcp:179800:34"/> 
+               <hi>Adam,</hi> even the diſobeying of the pure Light of Chriſt Jeſus, wherewith he hath lighted every one of you withal, which makes manifeſt unto you what ye ſhould do, and what ye ſhould not do; and who love and obey this, it will lead them to that which was in the Beginning, before Sin's Original was.</p>
+         </div>
+         <div type="section">
+            <head>A few Words concerning ſuch as Mock and Deride at being moved by the Spirit.</head>
+            <p>OH! Ye Blind and Ignorant People, Children of
+<pb n="68" facs="tcp:179800:35"/> no Underſtanding who are ſo far gone from the Lord God your Maker, and from the feeling of his Power, that it is become a Deriſion unto you: What Lamentation ſhall I take up for you, O ye People of <hi>England!</hi> whoſe Old Men are Scorners, and thy Children a Genera<g ref="char:EOLhyphen"/>tion of Mockers! In Vain has all thy Profeſſion of the Scrip<g ref="char:EOLhyphen"/>tures been, ſeeing now ye come to Mock and Deride <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Spirit, which gave them forth: Fear the Lord God ye <hi>Iſhmaelites,</hi> and Repent of the Evil of your Doings, which have for ſeveral Years done De<g ref="char:EOLhyphen"/>ſpight
+<pb n="69" facs="tcp:179800:35"/> to the Spirit of Grace, Jeering and Mocking at the Lord's People, who are moved by his Spirit to Worſhip him, and to Warn you of your Evil Lives, as if there were no ſuch Thing could be known, as to be led by his Spirit. I ſay, what are you led by in your Worſhip? if it be not by the Movings and Leadings of God's Spirit? Then who hath required it at your hands? but it ſeems you are not; for you Mock and Deride at be<g ref="char:EOLhyphen"/>ing moved by the Spirit, and ſo Mock at the Manner of the Scriptures being given, <hi>Holy Men of God Writing them
+<pb n="70" facs="tcp:179800:36"/> as they were moved by the Spirit,</hi> as ſaith the Scripture: There<g ref="char:EOLhyphen"/>fore learn Underſtanding, and mind God's pure Fear, that y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may come to feel God's Spirit near you, even in you, mo<g ref="char:EOLhyphen"/>ving out of Iniquity into that which is Righteous, and then ye will leave Mocking at the Spirit; for it hath been your Ignorance of it, has been the Ground of your Deſpiſing of it; But now, they that mind the ariſing of the Light, ſhall know the Clouds of Ignorance Expelled, and come to the Knowledge of the Manifeſta<g ref="char:EOLhyphen"/>tion of God's Spirit, without
+<pb n="71" facs="tcp:179800:36"/> which the Mind cannot be Good.</p>
+            <p>And all you little Children, who have been Mocking and Scorning at the Spirit of God, and at the Light, conſider what you are doing, you Mock at that which you ought to obey, as hath been proved in this little Book, and ſo remain Children of Diſo<g ref="char:EOLhyphen"/>bedience, in whom the Prince of the Power of Darkneſs rules in your Hearts, and keeps you from the Knowledge of God, <hi>who is Light, in whom is no Darkneſs,</hi> as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou may read in <hi>John</hi> 1. <hi>v.</hi> 5. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d remember this, that Mocking and Scorning, and Jeering, and
+<pb n="72" facs="tcp:179800:37"/> Deriding, are all Works of Darkneſs, and not wrought in the Light, but with the Light are all condemned.</p>
+            <closer>
+               <signed>S. C.</signed>
+            </closer>
+         </div>
+         <div type="section">
+            <head>An Exhortation to Families, who have deſires to ſerve the Lord God in their ſeveral places, that they may all learn in the Light of Chriſt Jeſus, the Wiſdom &amp; Power of God, who is true Teacher.</head>
+            <p>O Ye Fathers and Mothers, ſtand ia the pure Fear of
+<pb n="73" facs="tcp:179800:37"/> the Lord, and wait in his Light, that ye may receive his living Wiſdom, and live in it, that ſo ye may be ordered by it, and with it order all things to God's Glory, and bring up your Children in the fear of the Lord, Watching over them in the Seaſoned Savoury Life of God, not ſuffering them to live in VVildneſs, nor Idleneſs, nor Vain Talking (Unreproved) but in the Sober, Meek Spirit, and in the Autho<g ref="char:EOLhyphen"/>rity of God's Lamb, reprove them, and that will reach the Witneſs of God in them; and Correct them in the Fear and
+<pb n="74" facs="tcp:179800:38"/> Wiſdom and Freedom of God, in the Patience, and follow not their Fooliſh Wills, neither Correct them in your own Wills, nor in Haſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs, Ruſh<g ref="char:EOLhyphen"/>neſs or Paſſion; for if ye do, then that will uſe the Rod, which is to be beaten with the Rod of God, and that wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l make your Children mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Stubborn and Wicked, and this will Offend God; but ſtand ye in God's Counſel, and diſcou<g ref="char:EOLhyphen"/>rage nothing in your Chil<g ref="char:EOLhyphen"/>dren but Evil, and let them have that which is meet, ju<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and reaſonable, and no more, that none of God's Creature<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="75" facs="tcp:179800:38"/> be waſted; and be ye Patterns and good Example, in all Holi<g ref="char:EOLhyphen"/>neſs, Gravity and Uprightneſs, unto them; and let them have ſufficient Liberty to go to God<g ref="char:EOLhyphen"/>ly Meetings, and rather ſtir them up, and Encourage them to go to ſuch, than hinder or diſcourage them; and keep your Minds out of them unto the Lord, and let your Love to them be in the Lord, that ſo ye may feel his Bleſſing come upon you, and them.</p>
+            <p>And all ye Children who have Parents, honour (and be obedi<g ref="char:EOLhyphen"/>ent unto) them in the Lord, and mind the Light of Chriſt in you,
+<pb n="76" facs="tcp:179800:39"/> and that will not ſuffer ye to be Wild nor Wilfull, Stubborn nor Vain, but it will check and reprove ye for all Evil; and if ye will own its Reproof, and believe and wait in it, it will lead ye out of all Evil, and it will bring ye in<g ref="char:EOLhyphen"/>to Soberneſs and Meekneſs, Ten<g ref="char:EOLhyphen"/>derneſs and Innocency, and pre<g ref="char:EOLhyphen"/>ſerve ye in it, and it will bring ye to know and remember your Creator in the Dayes of your Youth, and it will reveal God's Power and Wiſdom in ye, where<g ref="char:EOLhyphen"/>by ye will be kept in true order: So, ſuffer not your Minds to follow Vanity, neither walk in Stubborneſs towards your
+<pb n="77" facs="tcp:179800:39"/> Parents, (nor others) I Warn ye in God's Fear, leſt he ſhorten your days, and cut ye off by his righteous Judgments; but mind his fear, and wait therein, that ye may feel his Grace, and be taught by it, and be obedient unto it, then ye will feel the mercy and bleſſing of the Lord.</p>
+            <p>And all ye that are Maſters and Dames, wait in the true Light, that ye may feel Chriſt the Power and Wiſdom of God to be your Maſter, that ſo ye may Rule in your Places in his Fear and Wiſdom; and lay no more upon your Servants, than ye would be willing ſhould be
+<pb n="78" facs="tcp:179800:40"/> laid upon you, if were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Places and Condition<g ref="char:punc">▪</g> [Mark that] and forbear thre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ning them, and be not haſty t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> turn them away if they be wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ling to abide with you, but in pa<g ref="char:EOLunhyphen"/>tience and meekneſs ſhew them their Place and Service, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> therein Teach them, if the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know it not; and let them hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for their Service that which i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Convenient, Juſt and Reaſona<g ref="char:EOLunhyphen"/>ble, that they may have no juſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cauſe to Mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mur or Conplain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and keep out of Covetouſneſs, leaſt that hinder you from gi<g ref="char:EOLhyphen"/>ving them ſufficient Liberty, (who deſire it) for going to
+<pb n="79" facs="tcp:179800:40"/> the Meetings of the People of the Lord; and if in the wiſdom of God ye ſee freedom to turn any away, give them ſufficient Waring, that they may pro<g ref="char:EOLhyphen"/>vide themſelves otherwayes, for this is but juſt, and reaſonable; and be not haſty nor raſh with them, nor run into Jangling with them, but if ye have cauſe to re<g ref="char:EOLhyphen"/>prove them, let it be in the Fear &amp; Wiſdom of God, in the Free<g ref="char:EOLhyphen"/>dom and Authority of the Truth &amp; that will reach unto the Wit<g ref="char:EOLhyphen"/>neſs of God in them: So be not high minded, but fear, and be patterns unto them in the low<g ref="char:EOLhyphen"/>ly, meek and quiet Spirit: and
+<pb n="80" facs="tcp:179800:41"/> bear with the weak, and forgive them that treſpaſs againſt you, and render not Evil for Evil to any, but overcome Evil with that which is Good, and live in that which overcomes Evil, that ſo the Truth of God may be exalted over all.</p>
+            <p>And all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that are Servants, live in the Fear of the Lord, and wait in his Light, and be obe<g ref="char:EOLhyphen"/>dient thereunto, and alſo be obedient (in your places) unt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thoſe that are your Maſters an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dames, according to the Fleſh, not only to the good and gen<g ref="char:EOLhyphen"/>tle, but alſo to the froward, ſerving them in Faithfulneſs and
+<pb n="81" facs="tcp:179800:41"/> Uprightneſs of Heart, doing what ye do for them, as dili<g ref="char:EOLhyphen"/>gently, faithfully and willing<g ref="char:EOLhyphen"/>ly, as ye ſhould do any thing to the Lord, for this is right in the ſight of God; and take heed that none of God's Creatures be loſt, or waſted under your Hands, through your neglect<g ref="char:EOLhyphen"/>ing them, or ſloathfulneſs in your places, wd do not falſly accuſe any, or ſpeak Evil be<g ref="char:EOLhyphen"/>hind any ones Back, thereby thinking to get the Favour o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Love of any, or upon any other account; for that is Evil: and be as diligent in your places, when your Maſters or Dames
+<pb n="82" facs="tcp:179800:42"/> are abſent, as when they are preſent; for this is juſt and right: and be not ſtubborn nor wilful, neither uſe many wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to your Maſters or Dames, and if ye know not well how to pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>form your Service aright, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in true Humility be willing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o learn; and take heed of High<g ref="char:EOLhyphen"/>mindedneſs and Pride, or of be<g ref="char:EOLhyphen"/>ing wiſe in your own Eyes and when ye have any ſpare Ti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> allowed ye, being free fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> outward Imployment, ſee that ye ſpend it in the Fear of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord, in waiting upon him <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Light, that ſo all vain Tal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing, corrupt Communication,
+<pb n="83" facs="tcp:179800:42"/> fooliſh jeſting, and all Vanity may be kept out of: and give ye not way to that mind which is Unſtable, which would be oft ſhifting and going from place to place, for this is not right in the ſight of God, but wait in the Light, that ye may be ſtaid and ſettled in your Minds; and if ye ſee Freedom in the Fear of God (Mark that) to go to ano<g ref="char:EOLhyphen"/>ther place, then give your Ma<g ref="char:EOLhyphen"/>ſters or Dames ſufficient notice of it: and if any of you, who know the Truth, come to be moved of the Lord to go to any place in his Service, be faithful to the Lord, and when your ſer<g ref="char:EOLhyphen"/>vice
+<pb n="84" facs="tcp:179800:43"/> which he required of you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> done, then return to your place<g ref="char:punc">▪</g> again, except it be otherway<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ordered in the Fear and Wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dom of God; and be diligent in your places, doing the ſame that ye would others ſhould do unto you in the like condition; and mind the Lord in and above all things, and be faithful unto him, and he will be your Reward.</p>
+            <p>And all ye Fathers and Mo<g ref="char:EOLhyphen"/>thers, and Children, and Ma<g ref="char:EOLhyphen"/>ſters, and Dames, and Servants, who have the Creatures of God to buy or ſell, or to exchange, live in the fear of the Lord, that ye may feel his Wiſdom to
+<pb n="85" facs="tcp:179800:43"/> guide you in your Trading, and do not ſpeak better or worſe of the Creatures then you know them to be, thereby to get the greater gain; for that is Idolatry, it ariſing from Co<g ref="char:EOLhyphen"/>vetouſneſs; but wait to feel God's Spirit to bridle your Tongues; and uſe but few words in your Trading<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and if ye ask a queſtion therein, do it in ſim<g ref="char:EOLhyphen"/>plicity, and keep in the Light, which is equal, that when ye offer or ask a Price for the Cre<g ref="char:EOLhyphen"/>atures, it may be in Equality, and let that be your Rule, and not the Price of the Market, ex<g ref="char:EOLhyphen"/>cept that be equal; for ſo ye may
+<pb n="86" facs="tcp:179800:44"/> reach the equal Principle on in another, and then ſtand t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Word, and here <hi>your Y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> will be Yea, and your Nay will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nay,</hi> and ſo ye will be kept in the Doctrine of Chriſt, with his Light, out of Evil: and ye abiding in the Light, it will bring you <hi>to do to every one as ye would be done unto:</hi> and take heed that ye ſtir not up the Impatient, Crooked, Diſorderly Nature one in another, with your Words or Actions; but bear one with another, and forgive one another, and when ye tell each other of a Fault, do it in the Fear and Wiſdom, and
+<pb n="87" facs="tcp:179800:44"/> meek Spirit of God's Lamb, that ſo ye may reſtore each other therein; and when ye have any convenient time, aſſemble your ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves together in the Name and Fear of the Lord, and wait eve<g ref="char:EOLhyphen"/>ry particular in the Meaſure and Gift of God in you, which is given ye to profit withal; and all wait together in the Light, and believe in it, that ye may be Children of the Light, and therein watch unto Prayer, and one over another, and this will beget ye into unfeigned Love; and walking in the Light ye will have true Unity and Fel<g ref="char:EOLhyphen"/>lowip one with another: and
+<pb n="88" facs="tcp:179800:45"/> the Blood (which is the Life) o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jeſus Chriſt you will feel clean<g ref="char:EOLunhyphen"/>ſing you from all Sin, ſo ye will come into the Unity wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God. Alſo, to feel his Word, his Power and Wiſdom (i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you) by which all things were Created and made, and are up<g ref="char:EOLhyphen"/>held, that therein ye may be or<g ref="char:EOLhyphen"/>dered in the particlar, and that therein ye may uſe and or<g ref="char:EOLhyphen"/>der all God's Creatures to his Glory; and then all falſe Weights, and Meaſures, and Wayes, and Worſhips will be deſtroyed; and then ſhall Truth, Equity, Righteouſneſs, and true Order and Mercy proſper, and
+<pb n="89" facs="tcp:179800:45"/> run down as a River: So let your Faith ſtand in Chriſt Jeſus the Light, and Wiſdom and Power of God, and then true Worſhip, true Weight, true Meaſure ſhall be ſet up and eſta<g ref="char:EOLhyphen"/>bliſhed, and then ſhall the Lord be exalted over all the Works of his Hands, and ſo ye will feel his bleſſing; unto him belong<g ref="char:EOLhyphen"/>eth Dominion and Honour, for he is worthy of it for evermore, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>By</hi> George Fox.</signed>
+            </closer>
+         </div>
+         <div type="section">
+            <pb n="90" facs="tcp:179800:46"/>
+            <head>The Lamb and his Day Proclamed.</head>
+            <p>THE Kingdom of God is at hand, which comes not with Obſerva<g ref="char:EOLhyphen"/>tion; Salvation is near unto all that will receive it, Re<g ref="char:EOLhyphen"/>demption is coming in a Time unexpected, and De<g ref="char:EOLhyphen"/>liverance in a Way not known, as a Thief in the Dark is the Heir come, whoſe light out of d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rkneſs
+<pb n="91" facs="tcp:179800:46"/> is ſhining, and that which ſhineth out of Darkneſs is it alone that giveth the Knowledge of God, whom to know is Life eternal; and the Brightneſs of the Day of God is ſpringing forth of Darkneſs, as the Morning Sun, after the Darkneſs of the Night, and Glorious is this day of the <hi>Revelation</hi> of God, to all them that have waited for his Coming, who in the Life of his Power through the Obedience in his love, come to rejoyce in
+<pb n="92" facs="tcp:179800:47"/> his Dominion over all the Powers of Darkneſs for<g ref="char:EOLhyphen"/>ever, and ſound forth the Dreadful Day of his Power unto all the Inhabitants of the Earth, from the which Chriſt the Saviour comes to take Peace, and to bring the Sword of God's Judg<g ref="char:EOLhyphen"/>ments into the Bowels of all the earthly-minded: and in him that judgeth the Se<g ref="char:EOLhyphen"/>crets of all Men's Hearts, do his Followers rejoyce, and proclaim him unto you all, that make an end of ſin,
+<pb n="93" facs="tcp:179800:47"/> who of the Father of Love and Mercy is tendred unto all that will receive him, that in him who condemns the Evil Deeds and Sin in the Fleſh, Salvation might be attained unto, who now comes unto his own, of whom many receive him not; for he is come to judge the World, whom God ſo loved, that he gave his Son the Light of the World, that whoſoever believe in him, (by whom the Secrets of all Hearts are, and ſhall be
+<pb n="94" facs="tcp:179800:48"/> judged) may be ſaved fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m Wrath to come, and find a ſure hiding place, when the Wicked ſhall be cut off the Earth.</p>
+            <p>And now, Who will re<g ref="char:EOLhyphen"/>ceive the Lamb, in whoſe Mouth there was no Guile? who among the Sons of men will recive him that hath been ſlain from the Founda<g ref="char:EOLhyphen"/>tion of the World? Who will receive him that is the gift of <hi>God,</hi> which is <hi>perfe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>?</hi> Who will receive him that is a man of Sorrows, wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e
+<pb n="95" facs="tcp:179800:48"/> Beauty is hid from the Pru<g ref="char:EOLhyphen"/>dent of the earth? Who will receive him that the Prieſts cry out againſt, and the Rulers ſay, away with him from the Earth? Who will come unto the Waters of Life, and return unto the Fountain of living Mercies, that in his Belly the ſprings of Life may be felt? Who can endure to follow him to the End of the World, whoſe Kingdom is not of this World, and who recei<g ref="char:EOLhyphen"/>veth not Honour of Men?
+<pb n="96" facs="tcp:179800:49"/> Who can hear, receive and keep the hard Sayings, and drink his Blood that clean<g ref="char:EOLhyphen"/>ſeth from all Sin? Who is willing to receive him that is the Reſurrection and the Life, whoſe preſence trou<g ref="char:EOLhyphen"/>bled and terrified his own Diſciples, ſo that their hearts burn'd within them? Who will lay down their Crowns at the foot of him that is the light, and mourn over him that is ſlain, whom they have pierced, and through patience, long-ſuf<g ref="char:EOLhyphen"/>fering
+<pb n="97" facs="tcp:179800:49"/> and Obedience, fol<g ref="char:EOLhyphen"/>low the one Shepherd in the Regeneration? Even unto them is the Word of Conſolation ſent.</p>
+            <p>Therefore be awakened, O all ye Rulers and People; let not your Hearts be hard<g ref="char:EOLhyphen"/>ned againſt God's Witneſs in you; neither ſtop your Ears, nor cloſe your Eyes; for of a truth the Lord is at hand; and is come to try you with his loving kindneſs &amp; with his Judgments. His flock deſpis'd of men, hath
+<pb n="98" facs="tcp:179800:50"/> he ſent in the Meekneſs of his love, to preach the inno<g ref="char:EOLhyphen"/>cent Life of his Son among you, in Meekneſs, Patience, Sufferings and Tribulations, who being reviled, revileth not again, but in Patience in<g ref="char:EOLhyphen"/>during long Impriſonments, yea, Want and Sickneſs there, and Abuſes, cruel Mockings, Stonings in the Street daily, and Revilings by Ungodly Perſons, whoſe Cruelty is increaſed, and their Sins multiplyed, in<g ref="char:EOLhyphen"/>creaſing to the day of Judg<g ref="char:EOLhyphen"/>ment,
+<pb n="99" facs="tcp:179800:50"/> and Righteous Reve<g ref="char:EOLhyphen"/>lation of God's Wrath upon all Unrighteouſneſs of men, who hold his Truth in that which is not his Righteouſ<g ref="char:EOLhyphen"/>neſs, which is now brought near unto all that fear before him in Uprightneſs of heart, that Truth in the inward parts they might come to know, and in it worſhip the God of the Spirits of all Fleſh.</p>
+            <closer>
+               <signed>H. S.</signed>
+            </closer>
+         </div>
+         <div type="section">
+            <pb n="100" facs="tcp:179800:51"/>
+            <head>Read with Carefulneſs, and Practiſe with Diligence.</head>
+            <p>ALL Children that are ten<g ref="char:EOLhyphen"/>der, and young in Years, mind the Lord God, who cre<g ref="char:EOLhyphen"/>ated you and formed you in the Womb, and walk in the Fear of God, that God may bleſs you in your Growth and Increaſe of Years, and make you Partakers of his Heavenly Bleſſings, and give unto you Life everlaſting; all follow the Light of the Lord Jeſus, wherewith you are en<g ref="char:EOLunhyphen"/>lightned,
+<pb n="101" facs="tcp:179800:51"/> which ſhews you that you ſhould not walk in the Foot ſteps of the Ungodly, in Lying, or Swearing, or Cur<g ref="char:EOLhyphen"/>ſing, or Mocking, or Scorning, or Wantonneſs, or in any Sin, that you may be the Children of the Light, and the Children of God, that God may de<g ref="char:EOLhyphen"/>light in doing you good; all mind the good Example of your Parents, and be ye Followers of the good; but where they are not a good Example to you in the fear of God, let your Modeſty and Sobriety and Chaſtity in Words and
+<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="102" facs="tcp:179800:52"/> unto them; and if for your well-doing they or any ſhall hate you, or ſeek your hurt, ſtill ſtanding in the fear of God, the Lord will keep you above the Hurt of Man, and his Children he will care for. So be not ye Learners of any Evil Example; for all that do learn of the Evil, and follow the Evil, ſuch will the Lord God reward with ſore Puniſhments and Judgments.</p>
+            <p>And all you Wicked Chil<g ref="char:EOLhyphen"/>dren, who are of the Seed of the Evil Doers, that are learn<g ref="char:EOLhyphen"/>ing of the Wicked One to Scoff,
+<pb n="103" facs="tcp:179800:52"/> and to Scorn, and to Mock, and to do Wickedly, this unto you is an Evil Example; The Chil<g ref="char:EOLhyphen"/>dren which Mocked <hi>Eliſha,</hi> Two and Forty of them were torn to pieces with two ſhe Bears, 2 <hi>Kings</hi> 2. <hi>Verſ.</hi> 23, 24. Yet ſorer Puniſhment hath God re<g ref="char:EOLhyphen"/>ſerved in ſtore for all the Chil<g ref="char:EOLhyphen"/>dren of Wickedneſs and Mock<g ref="char:EOLhyphen"/>ers. Wherefore be ye all Warned, and mind the Light of God in your Conſciences, and follow it, that you may receive and partake of the Store of
+<pb n="104" facs="tcp:179800:53"/> may receive and partake of the ſtore of God's Mercies, which none that do wickedly have the Promiſe of.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>A Sowle</hi> at his Shop in <hi>Devonſhire New Build<g ref="char:EOLhyphen"/>ings,</hi> without <hi>Biſhops-Gate,</hi> 1681</p>
+            <pb facs="tcp:179800:53"/>
+         </div>
+      </back>
+   </text>
+</TEI>
